@@ -15,7 +15,7 @@ controlling devices
 
 # Other GUI, codes, and softwares
 ## Matlab
-- [newport_delay_stage_gui_matlab](https://github.com/ksonod/newport_delay_stage_gui_matlab): 
+- [newport_delay_stage_gui_matlab](https://github.com/ksonod/newport_delay_stage_gui_matlab): Matlab version of [newport_delay_stage_gui](https://github.com/ksonod/newport_delay_stage_gui).
 - [delayscan_images](https://github.com/ksonod/delayscan_images): This is basically the same as [image_delay_gui](https://github.com/ksonod/image_delay_gui), but no GUI is available. 
 - [newport_delay_stage_basic_matlab](https://github.com/ksonod/newport_delay_stage_basic_matlab): This repository contains very simple Matlab codes for controlling the newport delay stage.
 - [thorlabs_camera_simple_matlab](https://github.com/ksonod/thorlabs_camera_simple_matlab): This repository shows a simple way of how to get images from a [Thorlabs camera](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4024) using Matlab.
