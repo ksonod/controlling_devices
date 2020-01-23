@@ -13,7 +13,7 @@ controlling devices
 - Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages).  
 - Programming Language: Python (Matlab version is [here](https://github.com/ksonod/newport_delay_stage_gui_matlab))
 
-# Other gui, codes, and softwares
+# Other GUI, codes, and softwares
 ## Matlab
 - [newport_delay_stage_gui_matlab](https://github.com/ksonod/newport_delay_stage_gui_matlab): 
 - [delayscan_images](https://github.com/ksonod/delayscan_images): This is basically the same as [image_delay_gui](https://github.com/ksonod/image_delay_gui), but no GUI is available. 
