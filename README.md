@@ -14,6 +14,8 @@ controlling devices
 - Programming Language: Python (Matlab version is [here](https://github.com/ksonod/newport_delay_stage_gui_matlab))
 
 # [picomotor_controller](https://github.com/ksonod/picomotor_controller)
+<img src="https://github.com/ksonod/picomotor_controller/blob/master/pico_gui.PNG" width="300px">      
+
 - Description: This is a GUI tool for controlling the [Newport Picomotor](https://www.newport.com/f/picomotor-piezo-linear-actuators).  
 - Programming Language: Matlab
 
