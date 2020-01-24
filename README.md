@@ -13,6 +13,11 @@ controlling devices
 - Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages).  
 - Programming Language: Python (Matlab version is [here](https://github.com/ksonod/newport_delay_stage_gui_matlab))
 
+# [picomotor_controller](https://github.com/ksonod/picomotor_controller)
+- Description: This is a GUI tool for controlling the [Newport Picomotor](https://www.newport.com/f/picomotor-piezo-linear-actuators).  
+- Programming Language: Matlab
+
+
 # Other GUI, codes, and softwares
 ## Matlab
 - [newport_delay_stage_gui_matlab](https://github.com/ksonod/newport_delay_stage_gui_matlab): Matlab version of [newport_delay_stage_gui](https://github.com/ksonod/newport_delay_stage_gui).
