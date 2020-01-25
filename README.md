@@ -4,7 +4,7 @@ controlling devices
 # [image_delay_gui](https://github.com/ksonod/image_delay_gui)  
 <img src="https://github.com/ksonod/image_delay_gui/blob/master/gui_matlab.PNG" width="500px">    
   
-- Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages) and getting images from [Thorlabs camera](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4024).  
+- Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages) and getting images from [Thorlabs CMOS camera](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4024).  
 - Programming Language: Matlab
     
 # [newport_delay_stage_gui](https://github.com/ksonod/newport_delay_stage_gui)
