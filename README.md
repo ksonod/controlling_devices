@@ -28,6 +28,7 @@ controlling devices
 - [newport_delay_stage_basic_matlab](https://github.com/ksonod/newport_delay_stage_basic_matlab): This repository contains very simple Matlab codes for controlling the newport delay stage.
 - [thorlabs_camera_simple_matlab](https://github.com/ksonod/thorlabs_camera_simple_matlab): This repository shows a simple way of how to get images from a [Thorlabs camera](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4024) using Matlab.
 - [pco_simple_gui](https://github.com/ksonod/pco_simple_gui): This simple GUI tool shows how to get images from a [PCO.edge camera](https://www.pco.de/)
+- [sc10_optical_shutter_simple_matlab](https://github.com/ksonod/sc10_optical_shutter_simple_matlab): This is a simple Matlab code for controlling the [optical shutters](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=927) using sc10 controller.
 
 ## Python
 - [newport_delay_stage_basic_python](https://github.com/ksonod/newport_delay_stage_basic_python): This repository shows a simple way of how to move the [Newport delay line stage](https://www.newport.com/f/delay-line-stages).
