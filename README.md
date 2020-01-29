@@ -21,6 +21,8 @@ controlling devices
 - Programming Language: Matlab
 
 # [sc10_optical_shutter_gui](https://github.com/ksonod/sc10_optical_shutter_gui)
+<img src="https://github.com/ksonod/sc10_optical_shutter_gui/blob/master/sc10.PNG" width="250px">    
+  
 - Description: This is a GUI tool for controlling the [Thorlabs optical shutter](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=927).  
 - Programming Language: Matlab
 
