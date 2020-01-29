@@ -20,6 +20,9 @@ controlling devices
 - Description: This is a GUI tool for controlling the [Newport Picomotor](https://www.newport.com/f/picomotor-piezo-linear-actuators).  
 - Programming Language: Matlab
 
+# [sc10_optical_shutter_gui](https://github.com/ksonod/sc10_optical_shutter_gui)
+- Description: This is a GUI tool for controlling the [Thorlabs optical shutter](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=927).  
+- Programming Language: Matlab
 
 # Other GUI, codes, and softwares
 ## Matlab
