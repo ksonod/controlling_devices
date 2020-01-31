@@ -27,7 +27,7 @@ controlling devices
 - Programming Language: Matlab
 
 # Other GUI, codes, and softwares
-The following list includes simple tools for controlling devices and getting images from a camera. Because of their simpleness, you can easilly modify them.
+The following list includes other GUI, codes, and softwares for controlling devices and getting images from a camera. Some of them are very simple, so you can easilly modify them.
 
 ## Matlab
 - [newport_delay_stage_gui_matlab](https://github.com/ksonod/newport_delay_stage_gui_matlab): Matlab version of [newport_delay_stage_gui](https://github.com/ksonod/newport_delay_stage_gui).
