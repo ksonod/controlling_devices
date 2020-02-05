@@ -4,6 +4,8 @@ The automation of device control and data aquisition is strongly desired to effi
 # [PCO_delay_scan](https://github.com/ksonod/PCO_delay_scan)
 <img src="https://github.com/ksonod/PCO_delay_scan/blob/master/gui1.PNG" width="500px">    
 
+- Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages), [optical shutters](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=927), and [picomotors](https://www.newport.com/f/picomotor-piezo-linear-actuators) and getting images from [PCO edge camera](https://www.pco.de/). You can get images as a function of the delay line stage and investigate the effect of the additional light by opening and closing the shutter.
+
 # [image_delay_gui](https://github.com/ksonod/image_delay_gui)  
 <img src="https://github.com/ksonod/image_delay_gui/blob/master/gui_matlab.PNG" width="500px">    
   
