@@ -1,5 +1,5 @@
 # controlling_devices
-The automation of device control and data aquisition is strongly desired to efficiently conduct scientific and industrial research. Here, I have built some GUI tools, codes, and softwares for achieving the automated research. They allow you to control optical devices, such as a motorized linear stage, optical shutter, and fine motor, and to get images from different types of cameras. 
+The automation of device control and data aquisition is strongly desired to efficiently conduct scientific and industrial research. Here, I have built some GUI tools, codes, and softwares for achieving the automated research. They allow you to control optical devices, such as a motorized linear stage, optical shutter, and optomechanics equiped with fine motors, and to get images from different types of cameras. 
 
 # [PCO_delay_scan](https://github.com/ksonod/PCO_delay_scan)
 <img src="https://github.com/ksonod/PCO_delay_scan/blob/master/gui1.PNG" width="500px">    
