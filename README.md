@@ -2,7 +2,7 @@
 The automation of device control and data aquisition is strongly desired to efficiently conduct scientific and industrial research. Here, I have built some GUI tools, codes, and softwares for achieving the automated research. They allow you to control optical devices, such as a motorized linear stage, optical shutter, and fine motor, and to get images from different types of cameras. 
 
 # [PCO_delay_scan](https://github.com/ksonod/PCO_delay_scan)
-<img src="https://github.com/ksonod/image_delay_gui/blob/master/gui_matlab.PNG" width="500px">    
+<img src="https://github.com/ksonod/PCO_delay_scan/blob/master/gui1.PNG" width="500px">    
 
 # [image_delay_gui](https://github.com/ksonod/image_delay_gui)  
 <img src="https://github.com/ksonod/image_delay_gui/blob/master/gui_matlab.PNG" width="500px">    
