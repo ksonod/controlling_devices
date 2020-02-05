@@ -17,7 +17,7 @@ The automation of device control and data aquisition is strongly desired to effi
 # [picomotor_controller](https://github.com/ksonod/picomotor_controller)
 <img src="https://github.com/ksonod/picomotor_controller/blob/master/pico_gui.PNG" width="300px">      
 
-- Description: This is a GUI tool for controlling the [Newport Picomotor](https://www.newport.com/f/picomotor-piezo-linear-actuators).  
+- Description: This is a GUI tool for controlling the [Newport Picomotor](https://www.newport.com/f/picomotor-piezo-linear-actuators). This tool allows us to do fine tuning of optomechanics.  
 - Programming Language: Matlab
 
 # [sc10_optical_shutter_gui](https://github.com/ksonod/sc10_optical_shutter_gui)
