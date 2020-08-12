@@ -8,10 +8,10 @@ The automation of device control and data aquisition is strongly desired to effi
 - Programming Language: Matlab
 - Application: Focussing profile of laser beam, interferometry, time-resolved measurement
 
-# [image_delay_gui](https://github.com/ksonod/image_delay_gui)  
+# [thorcam_NewportStage_GUI](https://github.com/ksonod/thorcam_NewportStage_GUI)  
 <img src="https://github.com/ksonod/image_delay_gui/blob/master/gui_matlab.PNG" width="500px">    
   
-- Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages) and getting images from [Thorlabs CMOS camera](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4024). You can get images at various stage positions.
+- Description: This repository provides a GUI tool for controlling the [Newport delay line stage](https://www.newport.com/f/delay-line-stages), getting images from [Thorlabs CMOS camera](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4024), and opening/closing a [Thorlabs optical shutter](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=927). You can get images as a function of the delay stage coordinate. Live view is available.
 - Programming Language: Matlab
 - Application: Focussing profile of laser beam, interferometry, time-resolved measurement
 
